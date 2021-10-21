@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="5J2yo4-xxxIGab~[JnV^" x="0" y="0"/><block type="device_forever" id="z{CS6W.0c_@DXr-,81OY" x="205" y="0"/><block type="device_gesture_event" id="IiA.%xbKg%vwcQx`onBS" x="341" y="241"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="YU#B8e!;hrSs$[gIJ)c,"><value name="number"><shadow type="math_number" id=":0H00NR@j:iB{UI~kKw:"><field name="NUM">0</field></shadow><block type="device_random" id="~:}^YF(wiP8Fqg`AG)}@"><value name="min"><shadow type="math_number" id="a_I?.~~+hFr!CF+R_;L+"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="nl-E|.GT2f_*bYe5~8K."><field name="NUM">6</field></shadow></value></block></value></block></statement></block></xml>
